@@ -1,5 +1,6 @@
 # Allumeria-translation-id_ID
 Indonesian translation for the game Allumeria. Created by the Indonesian community 🇮🇩♥️
+
 Translate Bahasa Indonesia untuk game Allumeria. Di buat oleh komunitas Indonesia 🇮🇩♥️
 
 # ⚠️The Indonesian translation is not yet perfect. We will improve it in a future patch⚠️
