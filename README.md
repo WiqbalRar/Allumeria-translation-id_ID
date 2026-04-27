@@ -55,7 +55,7 @@ Translate Bahasa Indonesia untuk game Allumeria. Di buat oleh komunitas Indonesi
 
      <img width="1688" height="480" alt="Cuplikan Layar Dari 2025-11-29 20-09-11" src="https://github.com/user-attachments/assets/f5b879b9-e9d8-4d57-8fa4-26608da4e4d9" />
 
-11. Selesai, jika belum paham bisa ke discord resmi Allumeria : https://discord.gg/WPZbj62P
+11. Selesai, jika belum paham bisa ke discord resmi Allumeria : https://discord.com/invite/Ddh3acCtVx
 
 # Want to join us? DM us on Discord @wiqbalrar
 
