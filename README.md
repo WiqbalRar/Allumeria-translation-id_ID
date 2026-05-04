@@ -4,7 +4,7 @@ Indonesian translation for the game Allumeria. Created by the Indonesian communi
 Translate Bahasa Indonesia untuk game Allumeria. Di buat oleh komunitas Indonesia 🇮🇩♥️
 
 # ⚠️The Indonesian translation is not yet perfect. We will improve it in a future patch⚠️
-# ⚠️Terjemahan Indonesia belum sempurna. Kami akan memperbaikinya dalam pembaruan mendatang⚠️
+# ⚠️Terjemahan Indonesia belum sempurna. Kami akan memperbaikinya dalamp pembaruan mendatang⚠️
 
 
 
