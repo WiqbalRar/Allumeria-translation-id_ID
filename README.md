@@ -1,5 +1,5 @@
 <div align="Center">
-  <img width="184" height="184" alt="Desain tanpa judul" src="screenshots/icon.png" />
+  <img width="184" height="184" alt="Desain tanpa judul" src="lowgo.png" />
   <h1>Allumeria Translation ID</h1>
   <h2>Indonesian translation for the game Allumeria.</h2>
   <h3>⚠️Terjemahan Indonesia belum sempurna. Kami akan memperbaikinya dalam pembaruan mendatang⚠️</h3>
