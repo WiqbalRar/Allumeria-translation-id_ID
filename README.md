@@ -20,18 +20,26 @@
    
    <img width="522" height="570" alt="tutorial pertama" src="tutorial/3.png"/>
 
-6. Lalu pergi ke
+5. Lalu pergi ke
 
-     Windows = C:\Program Files (x86)\Steam\steamapps\common\Allumeria\res\translations
+   ❖ Windows =
+   C:\Program Files (x86)\Steam\steamapps\common\Allumeria\res\translations
    
-     Linux = /home/(nama user)/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Allumeria/res/translations
+   🐧Linux =
+   /home/(nama user)/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Allumeria/res/translations
 
    dan tempel di sana
-8. Buka game di steam, lalu pilih "Options"
-9. Pergi ke "Language" dan ubah bahasa nya ke bahasa indonesia
-   <img width="1818" height="865" alt="tutorial pertama" src="tutorial/4.png"/>
-10. Klik "Apply" lalu keluar dari game untuk menerapkan bahasa indonesia    
-12. Terjemahan sudah bisa di guanakan!
+7. Buka game di steam, lalu pilih "Options"
+   
+   <img width="610" height="530" alt="tutorial pertama" src="tutorial/5.png"/>
+   
+8. Pergi ke "Language" dan ubah bahasa nya ke bahasa indonesia
     
-# Want to join us? DM us on Discord @wiqbalrar
+   <img width="1818" height="865" alt="tutorial pertama" src="tutorial/4.png"/>
+   
+9. Klik "Apply" lalu keluar dari game untuk menerapkan bahasa indonesia    
+10. Terjemahan sudah bisa di gunakan!
+    
+## Ingin Berkontribusi?
+- Daftar di : https://forms.gle/hb888j6wiBxCorUc8
 
