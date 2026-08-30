@@ -2,7 +2,6 @@
   <img width="184" height="184" alt="Desain tanpa judul" src="lowgo.png" />
   <h1>Allumeria Translation ID</h1>
   <h2>Indonesian translation for the game Allumeria.</h2>
-  <h3>⚠️Terjemahan Indonesia belum sempurna. Kami akan memperbaikinya dalam pembaruan mendatang⚠️</h3>
 
   # [Download Bahasa Indonesia](https://github.com/WiqbalRar/Allumeria-translation-id_ID/releases)
 </div>
