@@ -3,9 +3,11 @@
   <h1>Allumeria Translation ID</h1>
   <h2>Indonesian translation for the game Allumeria.</h2>
   <h3>⚠️Terjemahan Indonesia belum sempurna. Kami akan memperbaikinya dalam pembaruan mendatang⚠️</h3>
+
+  # [Download Bahasa Indonesia](https://github.com/WiqbalRar/Allumeria-translation-id_ID/releases)
 </div>
 
-# Cara masang terjemahan bahasa indonesia
+## Cara masang terjemahan bahasa indonesia
 1. Download terlebih dahulu patch penerjemahan yang terbaru di release
 
    <img width="1629" height="717" alt="Cuplikan Layar Dari 2025-11-29 19-46-24" src="https://github.com/user-attachments/assets/28a500a7-a91e-46a9-872b-7cfb8cdec612" />
