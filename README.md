@@ -23,7 +23,7 @@
    
    ❖ Windows =
    
-   `C\Program Files (x86)\Steam\steamapps\common\Allumeria\res\translations`
+   `C:\Program Files (x86)\Steam\steamapps\common\Allumeria\res\translations`
    
    🐧Linux =
    
