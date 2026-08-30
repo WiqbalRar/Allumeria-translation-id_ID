@@ -29,7 +29,7 @@
    /home/(nama user)/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Allumeria/res/translations
 
    dan tempel di sana
-7. Buka game di steam, lalu pilih "Options"
+7. Buka game Allumeria di steam, lalu pilih "Options"
    
    <img width="610" height="530" alt="tutorial pertama" src="tutorial/5.png"/>
    
