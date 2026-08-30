@@ -20,12 +20,14 @@
    <img width="522" height="570" alt="tutorial pertama" src="tutorial/3.png"/>
 
 5. Lalu pergi ke
-
+   
    ❖ Windows =
-   C:\Program Files (x86)\Steam\steamapps\common\Allumeria\res\translations
+   
+   `C\Program Files (x86)\Steam\steamapps\common\Allumeria\res\translations`
    
    🐧Linux =
-   /home/(nama user)/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Allumeria/res/translations
+   
+   `/home/(nama user)/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Allumeria/res/translations`
 
    dan tempel di sana
 7. Buka game Allumeria di steam, lalu pilih "Options"
